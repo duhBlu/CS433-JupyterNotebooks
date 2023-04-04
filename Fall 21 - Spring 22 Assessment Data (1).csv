@@ -1,0 +1,29 @@
+,First Year,,,,Sophomore,,,,,Junior,,,,,,,Senior,,,,
+,CS,CS,CS,IU,CS,CS,CS,CS,CS,CS,CS,CS,CS,CS,CS,CY,CS,CS,CS,CS,
+,101,155,245,315,265,288,300,351,380,345,390,433,440,480,591,201,350,445,495,499,
+SO #1. Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.,,,,,,,,,,,,,,,,,,,,,
+PI #1. Identify an appropriate problem-solving strategy,,0.94,0.94,,0.94,0.89,0.85,0.91,0.77,0.84,,0.92,0.96,,0.98,0.85,1,0.95,,0.92,
+PI #2. Apply appropriate solution method using principles of computing/other disciplines ,,0.94,0.94,,0.86,0.86,0.95,0.89,0.72,0.5,0.84,0.92,0.73,,0.98,0.85,1,,,0.92,
+PI #3. Test a correct problem solution,,0.94,0.73,,0.94,0.89,0.85,0.89,0.85,0.81,0.84,0.92,,,0.98,0.85,1,,,0.92,
+"SO #2. Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline",,,,,,,,,,,,,,,,,,,,,
+PI #1. Design an appropriate computing-based solution,0.93,0.8,,,0.94,0.89,0.95,0.89,0.72,,,0.92,0.88,,0.98,0.85,1,,,0.92,0.91 
+PI #2. Implement software/hardware/system applications,0.92,0.8,,,0.86,0.89,0.85,0.89,0.85,,,,0.88,-,0.98,,1,,,0.92,0.93 
+PI #3. Evaluate a computing-based solution,0.92,0.8,,,0.86,0.89,0.85,0.88,0.85,,,0.92,0.73,,0.98,0.85,1,,,0.92,0.87 
+SO #3. Communicate effectively in a variety of professional contexts.,,,,,,,,,,,,,,,,,,,,,
+PI #1. Communicates effectively in a variety of,,,,,,,,,,,,0.92,,,,,,1,1,0.92,0.92 
+professional contexts orally,,,,,,,,,,,,,,,,,,,,,
+PI #2. Communicates effectively in a variety of,,0.93,,,,,0.89,,,,1,0.92,,,,,,1,1,0.92,0.96 
+professional contexts in writing,,,,,,,,,,,,,,,,,,,,,
+PI #3. Uses language which appropriate to audience analysis,,0.93,,,,,0.89,,,0.84,0.84,0.92,,,,,,1,1,0.92,0.87 
+SO #4. Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.,,,,,,,,,,,,,,,,,,,,,
+PI #1. Recognize/understand professional responsibilities.,,0.93,,0.89,,,,,,,,,,,,,,1,1,1,
+PI #2. Understand and apply informed judgements and professional codes of ethics,,0.93,,1,,,,,,,,,,,,,,1,1,1,
+PI #3. Perform secure computing investigation,,0.86,,,0.87,,0.89,,,0.84,,,,-,,0.98,,1,1,1,0.91 
+SO #5. Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.,,,,,,,,,,,,,,,,,,,,,
+PI #1. Understand and participate in creating a project plan as a member or leader of a group.,,,,,0.86,0.84,,,,,1,0.92,,-,,,,0.82,,1,0.96 
+PI #2. Contribute to the development of a collaborative team environment.,,,,,0.86,0.84,,,,,1,0.92,,-,,,,0.82,,1,0.96 
+PI #3. Apply principles of computing to implement individual projects.,,0.8,,,0.86,0.84,0.85,,,,1,,,-,,0.98,,0.82,,1,0.99 
+SO #6. Apply computer science theory and software development fundamentals to produce computing-based solutions.,,,,,,,,,,,,,,,,,,,,,
+PI #1. Design software applications to meet specified requirements,,0.8,,,0.94,,0.89,,,,,,0.88,,0.98,,,0.95,,1,
+PI #2. Apply Software Development Life Cycle for application development,,0.8,,,0.86,,0.89,,,,,,,,,,,1,,1,
+PI #3. Identify appropriate algorithms/systems/architectures for computing-based solutions. ,,0.8,0.94,,0.86,0.88,0.89,0.91,0.85,0.84,1,0.92,0.73,-,0.98,,1,0.82,,1,
